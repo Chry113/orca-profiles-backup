@@ -1,0 +1,27 @@
+{
+    "additional_cooling_fan_speed": [
+        "20"
+    ],
+    "fan_max_speed": [
+        "25"
+    ],
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "0.727"
+    ],
+    "filament_settings_id": [
+        "Treed ABS CF @ BBL X1C FRC"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Treed ABS CF @ BBL X1C FRC",
+    "overhang_fan_speed": [
+        "55"
+    ],
+    "overhang_fan_threshold": [
+        "50%"
+    ],
+    "version": "1.8.0.27"
+}

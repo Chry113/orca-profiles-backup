@@ -1,0 +1,21 @@
+{
+    "filament_settings_id": [
+        "TREED PC-PBT GF @BBL X1C"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic PC",
+    "name": "TREED PC-PBT GF @BBL X1C",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "version": "1.8.0.13"
+}

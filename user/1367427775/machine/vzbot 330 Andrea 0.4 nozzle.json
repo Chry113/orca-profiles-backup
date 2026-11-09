@@ -1,0 +1,21 @@
+{
+    "from": "User",
+    "inherits": "vzbot 330 0.4 nozzle",
+    "machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n\n",
+    "name": "vzbot 330 Andrea 0.4 nozzle",
+    "print_host": "192.168.68.102",
+    "printable_area": [
+        "10x5",
+        "310x5",
+        "310x295",
+        "10x295"
+    ],
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "vzbot 330 Andrea 0.4 nozzle",
+    "version": "1.10.0.1"
+}

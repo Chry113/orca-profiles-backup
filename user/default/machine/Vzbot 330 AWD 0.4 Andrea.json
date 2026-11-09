@@ -1,0 +1,44 @@
+{
+	"auxiliary_fan": "1",
+	"before_layer_change_gcode": "\n",
+	"cooling_tube_length": "0",
+	"cooling_tube_retraction": "0",
+	"deretraction_speed": [
+		"45"
+	],
+	"extra_loading_move": "0",
+	"from": "User",
+	"inherits": "Vzbot 330 AWD 0.4 nozzle",
+	"layer_change_gcode": "",
+	"machine_end_gcode": "MMU_END\nPRINT_END",
+	"machine_load_filament_time": "48",
+	"machine_start_gcode": "MMU_START_SETUP INITIAL_TOOL={initial_tool} REFERENCED_TOOLS=!referenced_tools! TOOL_COLORS=!colors! TOOL_TEMPS=!temperatures! TOOL_MATERIALS=!materials! FILAMENT_NAMES=!filament_names! PURGE_VOLUMES=!purge_volumes!\nMMU_START_CHECK\nPRINT_START BED=[bed_temperature_initial_layer_single] HOTEND={nozzle_temperature_initial_layer[initial_tool]} PURGE=0\nMMU_START_LOAD_INITIAL_TOOL\nPURGE_LINE",
+	"machine_unload_filament_time": "37",
+	"name": "Vzbot 330 AWD 0.4 Andrea",
+	"nozzle_type": [
+		"hardened_steel"
+	],
+	"parking_pos_retraction": "0",
+	"print_host": "192.168.68.102",
+	"printable_area": [
+		"10x5",
+		"330x5",
+		"330x315",
+		"10x315"
+	],
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Vzbot 330 AWD 0.4 Andrea",
+	"retraction_length": [
+		"0.8"
+	],
+	"retraction_speed": [
+		"45"
+	],
+	"support_chamber_temp_control": "0",
+	"version": "1.9.0.2"
+}

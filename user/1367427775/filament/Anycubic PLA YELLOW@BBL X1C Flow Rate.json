@@ -1,0 +1,18 @@
+{
+    "filament_flow_ratio": [
+        "0.939"
+    ],
+    "filament_settings_id": [
+        "Anycubic PLA YELLOW@BBL X1C Flow Rate"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Anycubic PLA YELLOW@BBL X1C Flow Rate",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.8.0.18"
+}

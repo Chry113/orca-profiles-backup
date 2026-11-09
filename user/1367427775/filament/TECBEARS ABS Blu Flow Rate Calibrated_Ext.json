@@ -1,0 +1,15 @@
+{
+    "filament_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "filament_flow_ratio": [
+        "1.009"
+    ],
+    "filament_settings_id": [
+        "TECBEARS ABS Blu Flow Rate Calibrated_Ext"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "TECBEARS ABS Blu Flow Rate Calibrated_Ext",
+    "version": "2.7.0.8"
+}

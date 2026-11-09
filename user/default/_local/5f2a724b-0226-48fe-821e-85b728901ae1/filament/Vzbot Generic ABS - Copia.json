@@ -1,0 +1,15 @@
+{
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"1"
+	],
+	"filament_settings_id": [
+		"Vzbot Generic ABS - Copia"
+	],
+	"from": "Bundle",
+	"inherits": "Vzbot Generic ABS",
+	"name": "Vzbot Generic ABS - Copia",
+	"version": "2.0.2.0"
+}

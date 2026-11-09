@@ -1,0 +1,18 @@
+{
+    "fan_max_speed": [
+        "60"
+    ],
+    "fan_min_speed": [
+        "15"
+    ],
+    "filament_flow_ratio": [
+        "1.052"
+    ],
+    "filament_settings_id": [
+        "ZIRO PETG Yellow Flow Rate Calibrated_A4"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "ZIRO PETG Yellow Flow Rate Calibrated_A4",
+    "version": "2.0.0.87"
+}

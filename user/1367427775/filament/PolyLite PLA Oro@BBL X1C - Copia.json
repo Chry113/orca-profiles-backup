@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "PolyLite PLA Oro@BBL X1C - Copia"
+    ],
+    "from": "User",
+    "inherits": "PolyLite PLA @BBL X1C",
+    "name": "PolyLite PLA Oro@BBL X1C - Copia",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.0.0.89"
+}

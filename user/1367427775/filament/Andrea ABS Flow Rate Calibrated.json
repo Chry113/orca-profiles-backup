@@ -1,0 +1,18 @@
+{
+    "additional_cooling_fan_speed": [
+        "10"
+    ],
+    "filament_flow_ratio": [
+        "0.992"
+    ],
+    "filament_settings_id": [
+        "Andrea ABS Flow Rate Calibrated"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Andrea ABS Flow Rate Calibrated",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "version": "2.2.0.3"
+}

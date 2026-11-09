@@ -1,0 +1,27 @@
+{
+    "filament_settings_id": [
+        "Bambu PLA Basic @BBL X1C - Copia"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "Bambu PLA Basic @BBL X1C - Copia",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "2.1.0.18"
+}

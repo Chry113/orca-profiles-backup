@@ -1,0 +1,27 @@
+{
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "0.964"
+    ],
+    "filament_settings_id": [
+        "Bambu ABS Black@BBL X1C"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "95"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "95"
+    ],
+    "inherits": "Bambu ABS @BBL X1C",
+    "name": "Bambu ABS Black@BBL X1C",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "version": "1.8.0.13"
+}

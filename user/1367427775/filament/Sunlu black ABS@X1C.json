@@ -1,0 +1,24 @@
+{
+    "eng_plate_temp": [
+        "100"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
+    "filament_settings_id": [
+        "Sunlu black ABS@X1C"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Sunlu black ABS@X1C",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "2.2.0.3"
+}

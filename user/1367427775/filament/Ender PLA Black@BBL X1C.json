@@ -1,0 +1,33 @@
+{
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_deretraction_speed": [
+        "35"
+    ],
+    "filament_flow_ratio": [
+        "0.964"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "Ender PLA Black@BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Ender PLA Black@BBL X1C",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.0.0.89"
+}

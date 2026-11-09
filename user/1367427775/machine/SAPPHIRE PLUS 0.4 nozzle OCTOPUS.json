@@ -1,0 +1,35 @@
+{
+    "enable_filament_ramming": "0",
+    "from": "User",
+    "inherits": "TwoTrees SP-5 Klipper 0.4 nozzle",
+    "machine_end_gcode": "PRINT_END",
+    "machine_start_gcode": "PRINT_START HOTEND=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n",
+    "name": "SAPPHIRE PLUS 0.4 nozzle OCTOPUS",
+    "nozzle_type": [
+        "brass"
+    ],
+    "print_host": "192.168.68.125",
+    "printable_area": [
+        "0x0",
+        "300x0",
+        "300x290",
+        "0x290"
+    ],
+    "printable_height": "330",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "printer_settings_id": "SAPPHIRE PLUS 0.4 nozzle OCTOPUS",
+    "purge_in_prime_tower": "0",
+    "retraction_speed": [
+        "40"
+    ],
+    "single_extruder_multi_material": "0",
+    "version": "2.0.2.0",
+    "wipe": [
+        "0"
+    ]
+}

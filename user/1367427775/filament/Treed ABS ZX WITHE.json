@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "Treed ABS ZX WITHE"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Treed ABS ZX WITHE",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "version": "1.8.0.18"
+}

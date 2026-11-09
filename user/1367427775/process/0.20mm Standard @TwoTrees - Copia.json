@@ -1,0 +1,15 @@
+{
+    "bottom_shell_layers": "2",
+    "from": "User",
+    "inherits": "0.20mm Standard @TwoTrees",
+    "inner_wall_line_width": "0.4",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @TwoTrees - Copia",
+    "only_one_wall_first_layer": "1",
+    "only_one_wall_top": "1",
+    "print_settings_id": "0.20mm Standard @TwoTrees - Copia",
+    "sparse_infill_density": "0%",
+    "sparse_infill_line_width": "0.4",
+    "top_shell_layers": "0",
+    "version": "2.0.2.0"
+}

@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "TwoTrees SP-5 Klipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_start_gcode": "PRINT_START hotend=[nozzle_temperature_initial_layer] bed=[bed_temperature_initial_layer_single]\nBED_MESH_PROFILE LOAD=default \n",
+    "name": "TwoTrees SP-5 Klipper 0.4 nozzle - Copia",
+    "print_host": "192.168.68.100",
+    "printer_settings_id": "TwoTrees SP-5 Klipper 0.4 nozzle - Copia",
+    "version": "1.9.0.2"
+}

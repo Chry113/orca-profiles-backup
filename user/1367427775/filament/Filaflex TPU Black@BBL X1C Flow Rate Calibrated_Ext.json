@@ -1,0 +1,12 @@
+{
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "Filaflex TPU Black@BBL X1C Flow Rate Calibrated_Ext"
+    ],
+    "from": "User",
+    "inherits": "Generic TPU",
+    "name": "Filaflex TPU Black@BBL X1C Flow Rate Calibrated_Ext",
+    "version": "1.8.0.18"
+}

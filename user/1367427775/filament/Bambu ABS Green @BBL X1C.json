@@ -1,0 +1,18 @@
+{
+    "filament_flow_ratio": [
+        "0.9975"
+    ],
+    "filament_settings_id": [
+        "Bambu ABS Green @BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL X1C",
+    "name": "Bambu ABS Green @BBL X1C",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "version": "1.8.0.13"
+}

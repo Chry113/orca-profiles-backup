@@ -1,0 +1,30 @@
+{
+    "cool_plate_temp": [
+        "50"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "50"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Overture PLA yellow@BBL X1C 0.2 nozzle"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C 0.2 nozzle",
+    "name": "Overture PLA yellow@BBL X1C 0.2 nozzle",
+    "nozzle_temperature": [
+        "200"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "version": "2.2.0.3"
+}

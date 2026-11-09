@@ -1,0 +1,24 @@
+{
+    "cool_plate_temp": [
+        "55"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Basic Green@BBL X1C FlowRate"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "Bambu PLA Basic Green@BBL X1C FlowRate",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.10.0.27"
+}

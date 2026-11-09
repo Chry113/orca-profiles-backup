@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "0.16mm High Quality @BBL X1C",
+    "name": "0.16mm High Quality CROSS@BBL X1C",
+    "print_settings_id": "0.16mm High Quality CROSS@BBL X1C",
+    "sparse_infill_density": "8%",
+    "sparse_infill_pattern": "crosshatch",
+    "version": "1.10.0.27"
+}

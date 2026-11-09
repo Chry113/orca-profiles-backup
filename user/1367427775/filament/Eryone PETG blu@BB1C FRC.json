@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "Eryone PETG blu@BB1C FRC"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "Eryone PETG blu@BB1C FRC",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "version": "1.10.0.32"
+}

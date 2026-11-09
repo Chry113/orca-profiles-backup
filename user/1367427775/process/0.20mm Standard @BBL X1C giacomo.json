@@ -1,0 +1,19 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_line_width": "0.4",
+    "inner_wall_line_width": "0.4",
+    "internal_solid_infill_line_width": "0.4",
+    "line_width": "0.4",
+    "name": "0.20mm Standard @BBL X1C giacomo",
+    "outer_wall_line_width": "0.396",
+    "print_settings_id": "0.20mm Standard @BBL X1C giacomo",
+    "seam_position": "back",
+    "sparse_infill_density": "0%",
+    "sparse_infill_line_width": "0.4",
+    "support_line_width": "0.4",
+    "top_surface_line_width": "0.4",
+    "version": "1.10.0.30",
+    "wall_loops": "1"
+}

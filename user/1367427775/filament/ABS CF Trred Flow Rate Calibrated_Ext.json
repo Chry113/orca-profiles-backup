@@ -1,0 +1,21 @@
+{
+    "filament_flow_ratio": [
+        "0.785"
+    ],
+    "filament_settings_id": [
+        "ABS CF Trred Flow Rate Calibrated_Ext"
+    ],
+    "filament_type": [
+        "ABS"
+    ],
+    "from": "User",
+    "inherits": "Generic PA-CF",
+    "name": "ABS CF Trred Flow Rate Calibrated_Ext",
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "version": "1.7.0.29"
+}

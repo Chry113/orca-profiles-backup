@@ -1,0 +1,7 @@
+{
+    "from": "User",
+    "inherits": "Bambu Lab X1 Carbon 0.2 nozzle",
+    "name": "Bambu Lab X1 Carbon 0.2 nozzle - Copia",
+    "printer_settings_id": "Bambu Lab X1 Carbon 0.2 nozzle - Copia",
+    "version": "2.0.0.89"
+}

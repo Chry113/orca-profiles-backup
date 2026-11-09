@@ -1,0 +1,27 @@
+{
+    "additional_cooling_fan_speed": [
+        "20"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_cost": [
+        "20.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Matte Nero@BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Matte @BBL X1C",
+    "name": "Bambu PLA Matte Nero@BBL X1C",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.8.0.13"
+}

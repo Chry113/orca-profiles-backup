@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "GT3S PLA ROSSO"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "GT3S PLA ROSSO",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.8.0.13"
+}

@@ -1,0 +1,26 @@
+{
+	"extruder_clearance_radius": "120",
+	"from": "User",
+	"inherits": "MyKlipper 0.4 nozzle",
+	"machine_start_gcode": "  PRINT_START BED=[first_layer_bed_temperature] HOTEND=[first_layer_temperature]",
+	"name": "Sapphire PrintHead",
+	"print_host": "192.168.68.126",
+	"printable_area": [
+		"10x50",
+		"290x50",
+		"290x300",
+		"10x300"
+	],
+	"printable_height": "340",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Sapphire PrintHead",
+	"retraction_length": [
+		"0.4"
+	],
+	"version": "2.4.0.1"
+}

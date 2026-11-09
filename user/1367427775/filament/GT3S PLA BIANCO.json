@@ -1,0 +1,12 @@
+{
+    "filament_cost": [
+        "25"
+    ],
+    "filament_settings_id": [
+        "GT3S PLA BIANCO"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "GT3S PLA BIANCO",
+    "version": "1.8.0.13"
+}

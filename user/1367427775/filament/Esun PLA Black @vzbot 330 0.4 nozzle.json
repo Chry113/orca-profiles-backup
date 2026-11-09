@@ -1,0 +1,57 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "30"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "3"
+    ],
+    "fan_max_speed": [
+        "55"
+    ],
+    "fan_min_speed": [
+        "35"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "55"
+    ],
+    "filament_settings_id": [
+        "Esun PLA Black @vzbot 330 0.4 nozzle"
+    ],
+    "filament_vendor": [
+        "Esun"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @vzbot 330 0.4 nozzle",
+    "name": "Esun PLA Black @vzbot 330 0.4 nozzle",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "120"
+    ],
+    "version": "1.10.0.1"
+}

@@ -1,0 +1,57 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "default_filament_colour": [
+        "#0000FF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_max_speed": [
+        "55"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "1.01"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Esun PLA Blue@vzbot 330 0.8 nozzle"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @vzbot 330 0.4 nozzle",
+    "name": "Esun PLA Blue@vzbot 330 0.8 nozzle",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "overhang_fan_speed": [
+        "65"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.08"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "version": "1.10.0.1"
+}

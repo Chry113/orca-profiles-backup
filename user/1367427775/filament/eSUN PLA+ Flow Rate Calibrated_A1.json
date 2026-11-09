@@ -1,0 +1,18 @@
+{
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_flow_ratio": [
+        "0.927"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ Flow Rate Calibrated_A1"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL X1C",
+    "name": "eSUN PLA+ Flow Rate Calibrated_A1",
+    "version": "2.1.0.18"
+}

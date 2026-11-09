@@ -1,0 +1,18 @@
+{
+    "filament_flow_ratio": [
+        "0.994"
+    ],
+    "filament_settings_id": [
+        "Creality Red PLA@X1C Flow Rate Calibrated_A4"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "Creality Red PLA@X1C Flow Rate Calibrated_A4",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.10.0.27"
+}

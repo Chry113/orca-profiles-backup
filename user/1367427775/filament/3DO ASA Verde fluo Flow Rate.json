@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "0.962"
+    ],
+    "filament_settings_id": [
+        "3DO ASA Verde fluo Flow Rate"
+    ],
+    "from": "User",
+    "inherits": "Generic ASA",
+    "name": "3DO ASA Verde fluo Flow Rate",
+    "version": "1.10.0.19"
+}

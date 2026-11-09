@@ -1,0 +1,15 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA Silk Bianco"
+    ],
+    "from": "User",
+    "inherits": "SUNLU PLA Silk @Bambu Lab X1 Carbon 0.4 nozzle",
+    "name": "Sunlu PLA Silk Bianco",
+    "version": "1.8.0.13"
+}

@@ -1,0 +1,15 @@
+{
+    "default_filament_colour": [
+        "#D70000"
+    ],
+    "filament_flow_ratio": [
+        "0.951"
+    ],
+    "filament_settings_id": [
+        "Esun ABS+ Red"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Esun ABS+ Red",
+    "version": "1.8.0.18"
+}

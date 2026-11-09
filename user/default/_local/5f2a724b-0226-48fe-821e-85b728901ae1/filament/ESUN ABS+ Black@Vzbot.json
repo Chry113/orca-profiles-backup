@@ -1,0 +1,42 @@
+{
+	"default_filament_colour": [
+		"#000000"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"fan_max_speed": [
+		"25"
+	],
+	"fan_min_speed": [
+		"10"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_max_volumetric_speed": [
+		"40"
+	],
+	"filament_settings_id": [
+		"ESUN ABS+ Black@Vzbot"
+	],
+	"from": "Bundle",
+	"hot_plate_temp": [
+		"95"
+	],
+	"hot_plate_temp_initial_layer": [
+		"95"
+	],
+	"inherits": "Vzbot Generic ABS",
+	"name": "ESUN ABS+ Black@Vzbot",
+	"nozzle_temperature": [
+		"285"
+	],
+	"nozzle_temperature_initial_layer": [
+		"285"
+	],
+	"overhang_fan_speed": [
+		"50"
+	],
+	"version": "1.9.0.2"
+}

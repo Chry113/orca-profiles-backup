@@ -1,0 +1,15 @@
+{
+    "filament_settings_id": [
+        "Artillery RED PLA @0.2 nozzle"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @0.2 nozzle",
+    "name": "Artillery RED PLA @0.2 nozzle",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.0.0.89"
+}

@@ -1,0 +1,39 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_cost": [
+        "12"
+    ],
+    "filament_flow_ratio": [
+        "1.011"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA Withe@BBL X1C"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "eSUN PLA+ @BBL X1C",
+    "name": "eSUN PLA Withe@BBL X1C",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.0.0.89"
+}

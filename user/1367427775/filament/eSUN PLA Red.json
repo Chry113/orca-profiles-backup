@@ -1,0 +1,21 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_flow_ratio": [
+        "1.04"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA Red"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL X1C",
+    "name": "eSUN PLA Red",
+    "version": "2.0.0.89"
+}

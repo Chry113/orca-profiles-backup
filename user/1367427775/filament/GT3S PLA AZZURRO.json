@@ -1,0 +1,15 @@
+{
+    "filament_cost": [
+        "25"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "GT3S PLA AZZURRO"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "GT3S PLA AZZURRO",
+    "version": "1.7.0.29"
+}

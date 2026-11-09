@@ -1,0 +1,21 @@
+{
+    "default_filament_colour": [
+        "#FF8080"
+    ],
+    "filament_flow_ratio": [
+        "0.956"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Basic Beige@BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "Bambu PLA Basic Beige@BBL X1C",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "1.8.0.18"
+}

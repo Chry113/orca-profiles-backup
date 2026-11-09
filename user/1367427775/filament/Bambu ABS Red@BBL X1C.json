@@ -1,0 +1,36 @@
+{
+    "additional_cooling_fan_speed": [
+        "20"
+    ],
+    "fan_max_speed": [
+        "25"
+    ],
+    "filament_deretraction_speed": [
+        "30"
+    ],
+    "filament_flow_ratio": [
+        "1.002"
+    ],
+    "filament_retraction_length": [
+        "0.9"
+    ],
+    "filament_retraction_speed": [
+        "35"
+    ],
+    "filament_settings_id": [
+        "Bambu ABS Red@BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Bambu ABS @BBL X1C",
+    "name": "Bambu ABS Red@BBL X1C",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "overhang_fan_speed": [
+        "90"
+    ],
+    "version": "1.8.0.13"
+}

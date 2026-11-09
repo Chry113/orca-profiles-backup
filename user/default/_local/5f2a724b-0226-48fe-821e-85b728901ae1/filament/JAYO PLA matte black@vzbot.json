@@ -1,0 +1,75 @@
+{
+	"additional_cooling_fan_speed": [
+		"30"
+	],
+	"complete_print_exhaust_fan_speed": [
+		"0"
+	],
+	"default_filament_colour": [
+		"#000000"
+	],
+	"during_print_exhaust_fan_speed": [
+		"0"
+	],
+	"enable_pressure_advance": [
+		"1"
+	],
+	"fan_max_speed": [
+		"55"
+	],
+	"fan_min_speed": [
+		"15"
+	],
+	"filament_deretraction_speed": [
+		"30"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"0.96"
+	],
+	"filament_retract_when_changing_layer": [
+		"0"
+	],
+	"filament_retraction_length": [
+		"0.4"
+	],
+	"filament_retraction_speed": [
+		"30"
+	],
+	"filament_settings_id": [
+		"JAYO PLA matte black@vzbot"
+	],
+	"filament_wipe": [
+		"0"
+	],
+	"from": "Bundle",
+	"hot_plate_temp": [
+		"65"
+	],
+	"hot_plate_temp_initial_layer": [
+		"65"
+	],
+	"inherits": "Generic PLA @System",
+	"name": "JAYO PLA matte black@vzbot",
+	"nozzle_temperature": [
+		"200"
+	],
+	"nozzle_temperature_initial_layer": [
+		"200"
+	],
+	"overhang_fan_speed": [
+		"55"
+	],
+	"pressure_advance": [
+		"0.021"
+	],
+	"slow_down_layer_time": [
+		"1"
+	],
+	"slow_down_min_speed": [
+		"60"
+	],
+	"version": "2.0.2.0"
+}

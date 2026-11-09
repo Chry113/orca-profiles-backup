@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "0.975"
+    ],
+    "filament_settings_id": [
+        "JAYO PLA black matte Flow"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @0.2 nozzle",
+    "name": "JAYO PLA black matte Flow",
+    "version": "2.2.0.3"
+}

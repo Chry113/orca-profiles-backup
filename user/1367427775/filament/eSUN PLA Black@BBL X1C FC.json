@@ -1,0 +1,45 @@
+{
+    "cool_plate_temp": [
+        "55"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "55"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "fan_cooling_layer_time": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "70"
+    ],
+    "filament_cost": [
+        "12"
+    ],
+    "filament_flow_ratio": [
+        "0.899"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA Black@BBL X1C FC"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL X1C",
+    "name": "eSUN PLA Black@BBL X1C FC",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "version": "2.1.0.18"
+}

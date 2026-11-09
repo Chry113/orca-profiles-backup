@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "0.944"
+    ],
+    "filament_settings_id": [
+        "ZIRO PETG Yellow"
+    ],
+    "from": "User",
+    "inherits": "Generic PETG",
+    "name": "ZIRO PETG Yellow",
+    "version": "2.0.0.87"
+}

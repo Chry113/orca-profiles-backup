@@ -1,0 +1,33 @@
+{
+    "complete_print_exhaust_fan_speed": [
+        "80"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "20"
+    ],
+    "filament_deretraction_speed": [
+        "35"
+    ],
+    "filament_flow_ratio": [
+        "0.952"
+    ],
+    "filament_max_volumetric_speed": [
+        "25"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "45"
+    ],
+    "filament_settings_id": [
+        "Stratasys ABS 5kg Flow Rate Calibrated_Ext"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "name": "Stratasys ABS 5kg Flow Rate Calibrated_Ext",
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "version": "1.9.0.21"
+}

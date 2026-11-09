@@ -1,0 +1,9 @@
+{
+    "filament_settings_id": [
+        "GT3S PLA GreeFluo @ BBL X1C"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk",
+    "name": "GT3S PLA GreeFluo @ BBL X1C",
+    "version": "1.8.0.18"
+}

@@ -1,0 +1,21 @@
+{
+    "filament_cost": [
+        "12"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ @BBL X1C - Copia"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL X1C",
+    "name": "eSUN PLA+ @BBL X1C - Copia",
+    "nozzle_temperature": [
+        "205"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "205"
+    ],
+    "version": "2.1.0.18"
+}

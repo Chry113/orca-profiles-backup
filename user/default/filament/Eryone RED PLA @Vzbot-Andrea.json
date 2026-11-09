@@ -1,0 +1,18 @@
+{
+	"compatible_printers": [
+		"Vzbot 330 AWD 0.4 nozzle"
+	],
+	"filament_cooling_moves": [
+		"0"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"Eryone RED PLA @Vzbot-Andrea"
+	],
+	"from": "User",
+	"inherits": "Generic PLA @System",
+	"name": "Eryone RED PLA @Vzbot-Andrea",
+	"version": "2.4.0.3"
+}

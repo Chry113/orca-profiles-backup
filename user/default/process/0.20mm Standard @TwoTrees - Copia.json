@@ -1,0 +1,18 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @TwoTrees",
+    "initial_layer_line_width": "0.4",
+    "initial_layer_speed": "30",
+    "inner_wall_line_width": "0.4",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @TwoTrees - Copia",
+    "only_one_wall_first_layer": "1",
+    "only_one_wall_top": "1",
+    "outer_wall_line_width": "0.396",
+    "print_settings_id": "0.20mm Standard @TwoTrees - Copia",
+    "sparse_infill_density": "8%",
+    "sparse_infill_line_width": "0.42",
+    "sparse_infill_pattern": "gyroid",
+    "version": "1.9.0.2"
+}

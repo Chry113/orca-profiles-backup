@@ -1,0 +1,19 @@
+{
+    "bottom_shell_layers": "2",
+    "enable_arc_fitting": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @TwoTrees",
+    "initial_layer_line_width": "0.4",
+    "initial_layer_print_height": "0.2",
+    "inner_wall_line_width": "0.4",
+    "is_custom_defined": "0",
+    "layer_height": "0.2",
+    "name": "0.20mm ABS Standard @SP5",
+    "only_one_wall_first_layer": "1",
+    "only_one_wall_top": "1",
+    "print_settings_id": "0.20mm ABS Standard @SP5",
+    "sparse_infill_density": "0%",
+    "sparse_infill_line_width": "0.4",
+    "top_shell_layers": "0",
+    "version": "1.9.0.2"
+}

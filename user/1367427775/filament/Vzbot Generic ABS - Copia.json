@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Vzbot Generic ABS - Copia"
+    ],
+    "from": "User",
+    "inherits": "Vzbot Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Vzbot Generic ABS - Copia",
+    "version": "2.0.2.0"
+}

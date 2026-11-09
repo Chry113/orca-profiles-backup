@@ -1,0 +1,12 @@
+{
+    "filament_flow_ratio": [
+        "1.002"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ Blue Flow Rate Calibrated_A1"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL X1C 0.2 nozzle",
+    "name": "eSUN PLA+ Blue Flow Rate Calibrated_A1",
+    "version": "2.2.0.3"
+}
